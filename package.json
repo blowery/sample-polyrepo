@@ -1,0 +1,8 @@
+{
+  "name": "@b19y/sample-repo",
+  "version": "1.0.0",
+  "description": "A sample polyrepo",
+  "author": "Me",
+  "private": true,
+  "license": "ISC"
+}
